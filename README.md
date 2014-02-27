@@ -1,0 +1,4 @@
+gamecoin
+========
+
+GameCoin Source Code
